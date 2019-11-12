@@ -1,2 +1,2 @@
 # hackthebox
-https://hackthebox.com flags here.
+https://hackthebox.eu flags here.
